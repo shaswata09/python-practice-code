@@ -113,13 +113,11 @@
 # print(id(x))
 # print(id(10))
 # print(id(9999999999))
-
-lst = list()
-lst.append(10)
-lst.append("string")
-lst.extend("shaswata")
-print(lst)
-str1 = "shaswata"
-
-
+#
+# lst = list()
+# lst.append(10)
+# lst.append("string")
+# lst.extend("shaswata")
+# print(lst)
+# str1 = "shaswata"
 
